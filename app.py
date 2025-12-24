@@ -13,11 +13,13 @@ import re
 from datetime import datetime
 import subprocess
 
+# Load local .env if present (Streamlit Cloud uses Secrets instead)
 ENV_PATH = Path(__file__).resolve().parent / ".env"
-load_dotenv(dotenv_path=ENV_PATH, override=True)
+if ENV_PATH.exists():
+    load_dotenv(dotenv_path=ENV_PATH, override=True)
 
 # ---------- OpenAI API key ----------
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
 if not api_key:
     st.error(
         "Missing OPENAI_API_KEY. Add it to your .env file (local) or Streamlit Secrets (cloud)."
