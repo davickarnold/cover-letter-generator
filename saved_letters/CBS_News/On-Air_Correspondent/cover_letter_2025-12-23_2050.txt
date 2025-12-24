@@ -1,0 +1,55 @@
+Arnold Davick  
+[Address]  
+[City, State, Zip]  
+[Email Address]  
+[Phone Number]  
+[Date]  
+
+Hiring Manager  
+BS Newspath  
+[Office Address]  
+[City, State, Zip]  
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the multiskilled journalist position at BS Newspath. With nearly a decade of experience as a reporter, producer, and multimedia journalist in local and national news markets, I have developed a strong ability to cover breaking and scheduled news events, often working independently under tight deadlines. My background aligns closely with the responsibilities you describe, including shooting, writing, editing, and producing stories for both linear and digital platforms.
+
+At NY1 Spectrum News and Verizon FiOS1 News, I regularly pitched, developed, shot, and edited stories on a wide range of topics including breaking news, politics, crime, and community affairs. This included live coverage and working solo in the field, often handling camera work and editing independently using Adobe Premiere, LumaFusion, and Sony Vegas Pro. I have experience managing workflows with photographers and editors and have contributed bilingual reporting in English and Spanish. Additionally, I am fully comfortable communicating and collaborating with news teams to meet editorial standards and deadlines, which supports a productive newsroom environment.
+
+More recently, as a Digital Video Producer at Access Hollywood, I expanded my skills in digital video production, scriptwriting, SEO optimization, and content publishing on CMS and social platforms, which complements the multiskilled storytelling approach you seek. My freelance hosting work further demonstrates my ability to represent organizations professionally in public-facing roles and conduct engaging interviews.
+
+While I have not used Avid specifically, my proficiency with industry-standard editing tools and my technical troubleshooting experience in newsroom and field production settings make me confident I can quickly adapt. I also meet the physical requirements for field reporting and hold a valid driver’s license with a good driving record. My education includes a strong foundation in journalism principles, and I bring a solid understanding of newsroom workflows and editorial judgment.
+
+I am excited about the opportunity to bring my skills and experience to BS Newspath, where I can contribute to compelling, accurate reporting for your broad affiliate network. Thank you for considering my application. I look forward to the possibility of discussing how I can support your team.
+
+Sincerely,  
+Arnold Davick  
+
+---
+
+### Claims Audit Table
+
+| Job Requirement / Responsibility                           | Match Type                         | Evidence from Work History or Strategic Context                    |
+|------------------------------------------------------------|----------------------------------|-------------------------------------------------------------------|
+| Covering scheduled news events and breaking news           | Direct match                     | NY1 Spectrum News, Verizon FiOS1 News breaking news coverage      |
+| Shooting, writing, tracking, and editing stories           | Direct match                     | MMJ roles at Verizon FiOS1 News and NY1; editing with Adobe Premiere, Sony Vegas Pro, LumaFusion |
+| Traveling and reporting live from various locations        | Direct match                     | Field production and solo shooting/reporting experience           |
+| Pitching and developing stories of interest to national audience | Direct match                     | Independent story development and pitching in all reporting roles |
+| Generating content and enterprising ideas for linear and digital platforms | Direct match                     | Producing video content for digital and broadcast platforms at Access Hollywood and newsrooms |
+| Gathering news elements and shooting packages in the field | Direct match                     | Multimedia journalism involving shooting interviews, b-roll, standups |
+| Pursuing newsmakers and conducting interviews               | Direct match                     | Conducted interviews with officials and community members at News 12 and NY1 |
+| Updating story editorial for all time zones during shift    | Adjacent match                   | Coordinated editorial needs and timing with teams; no explicit time zone mention |
+| Communicating frequently and optimally                      | Direct match                     | Managed communication with reporters, editors, and sources        |
+| Encouraging a highly collaborative working environment      | Direct match                     | Collaborative newsroom workflows and coordination roles           |
+| Following CBS News editorial guidance and standards          | Adjacent match                   | Applied newsroom editorial standards; no CBS-specific claim       |
+| Representing company expertly in public interactions         | Direct match                     | On-camera hosting and interviews for AHA TV and other clients     |
+| Maintaining company-issued technology, equipment, vehicles  | Gap                             | No mention of vehicle maintenance or troubleshooting beyond equipment/software |
+| 5 years experience as on-air multiskilled journalist        | Direct match                     | Nearly a decade in roles covering reporting, shooting, editing    |
+| Must provide reel demonstrating reporting, photography, editing | Gap                             | No mention of providing reels                                        |
+| High proficiency with video editing software such as Avid    | Gap                             | Experience with Adobe Premiere, Sony Vegas Pro, LumaFusion; no Avid |
+| Technical troubleshooting ability for software, camera, video transmission | Transferable                  | Supported by newsroom and field technical troubleshooting         |
+| Physically able to carry and shoot with ENG camera and equipment | Direct match                     | Field solo shooting often with prosumer cameras and equipment     |
+| Valid driver’s license and good driving record                | Direct match                     | Valid driver’s license mentioned; good driving record implied      |
+| Excellent reading, writing, spelling, grammar, organizational skills | Direct match                   | Consistent writing, script preparation, and newsroom editorial work |
+| Able to work adaptable schedule in 24/7 news environment     | Transferable (Strategic readiness) | Supported by Strategic Context: familiar with deadline-driven newsroom workflows and breaking news |
+

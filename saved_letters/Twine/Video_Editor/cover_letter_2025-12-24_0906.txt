@@ -1,0 +1,48 @@
+Arnold Davick  
+[Address]  
+[City, State, Zip]  
+[Email]  
+[Phone Number]  
+[Date]
+
+Hiring Manager  
+[Company Name]  
+[Company Address]  
+New York, NY  
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the Video Editor position for your conversational video podcast series as advertised. With nearly a decade of professional experience in video editing, producing, and multimedia journalism, I bring a solid foundation in editing long-form video content, working with multi-camera footage, and managing audio and video synchronization to ensure clear, engaging storytelling.
+
+In my previous roles, including my time as a Digital Video Producer at Access Hollywood and a News Reporter for NY1 Spectrum News and News 12, I have edited video packages, frequently working with multiple camera sources and independently shot footage. I am proficient with Adobe Premiere, which I used extensively to produce polished news reports and longer form content, often incorporating graphics and applying color correction and audio adjustments to enhance the final product. My experience includes managing large volumes of footage under tight newsroom deadlines, editing in narrative sequences that maintain clear and coherent storytelling flow, much like the requirements of your podcast project.
+
+Additionally, I have on-site collaboration experience from working in fast-paced newsroom environments and digital video production settings, ensuring smooth communication with photographers, editors, and production teams. This aligns well with your hybrid work environment and onsite sessions in New York City.
+
+While I have not specifically edited long-form podcast material with three-camera setups and separate audio tracks, my multimedia journalism background, combined with my digital video production skills and familiarity with multi-camera workflows, makes me well-positioned to adapt quickly and deliver outstanding results. I am eager to bring my commitment to high-quality video editing and storytelling to your team and contribute to producing compelling podcast episodes.
+
+Thank you for your consideration. I look forward to the opportunity to discuss how my skills can support your production goals.
+
+Sincerely,  
+Arnold Davick
+
+---
+
+**Claims Audit Table**
+
+| Job Requirement                                      | Match Type                      | Evidence from Work History Source-of-Truth                                                                                  |
+|-----------------------------------------------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| Edit 5-6 podcast episodes, 45–60 minutes each      | Adjacent match                 | Produced short- and long-form video content at Access Hollywood; edited news reports and specials at NY1 using Adobe Premiere |
+| Edit multi-camera video footage                      | Transferable                  | Reported, shot, and edited independently, including handling multi-source video at NY1, News 12, and FiOS1                    |
+| Sync and balance separate audio tracks               | Transferable                  | Responsible for video and audio editing using Adobe Premiere and LumaFusion; produced cohesive digital video stories        |
+| Cut/assemble footage maintaining natural flow       | Direct match                  | Wrote and produced stories and packages maintaining narrative coherence at Verizon FiOS1 and digital video production        |
+| Integrate breaks and seamless transitions            | Transferable                  | Experience building show rundowns and coordinating elements in ENPS; editing cohesive video packages                         |
+| Basic color correction and audio enhancements        | Direct match                  | Applied color and audio adjustments during video editing using Adobe Premiere, Sony Vegas Pro, and LumaFusion                  |
+| Prepare final video files for distribution            | Direct match                  | Published digital video content, optimized for YouTube and social platforms at Access Hollywood                                |
+| Collaboration with production team onsite in NYC     | Adjacent match                 | Worked in local newsroom environments coordinating with photographers, editors, and production staff                          |
+| Use professional video editing software (e.g., Premiere Pro) | Direct match                  | Extensive experience with Adobe Premiere, Sony Vegas Pro, and LumaFusion                                                      |
+| Strong attention to detail and narrative pacing      | Direct match                  | Developed news stories and packages maintaining editorial judgment and pacing across multiple roles                           |
+| Work efficiently with large footage volumes and deadlines | Direct match                  | Managed deadline-driven newsroom workflows at Verizon FiOS1 and NY1                                                          |
+| Strong communication and collaboration skills        | Direct match                  | Coordinated editorial needs, managed reporters, photographers, editors, and external communications throughout career        |
+| Availability for hybrid / onsite presence in NYC     | Adjacent match                 | Worked in multiple NYC area newsrooms and media productions requiring onsite presence                                          |
+
+| *Understanding of media ecosystems and editorial workflow* | Transferable (Strategic readiness) | Well-positioned to support media outreach and editorial collaboration based on strong understanding from strategic context    |
