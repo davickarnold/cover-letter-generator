@@ -20,3 +20,4 @@ venv/
 
 # Logs
 *.log
+app.py.bak

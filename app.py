@@ -20,7 +20,6 @@ if ENV_PATH.exists():
 
 # ---------- OpenAI API key ----------
 api_key = st.secrets.get("OPENAI_API_KEY") or os.getenv("OPENAI_API_KEY")
-st.sidebar.write("Secrets keys:", list(st.secrets.keys()))
 if not api_key:
     st.error(
         "Missing OPENAI_API_KEY. Add it to your .env file (local) or Streamlit Secrets (cloud)."
